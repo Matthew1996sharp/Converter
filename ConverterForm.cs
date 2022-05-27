@@ -112,7 +112,7 @@ namespace Converter
         private void HelpButton_Click(object sender, EventArgs e)
         {
             //вызываем файл справки, раздел "Конвертер"
-            Help.ShowHelp(this, ConverterHelpProvider.HelpNamespace, "usd2rub_01.htm");
+            //Help.ShowHelp(this, ConverterHelpProvider.HelpNamespace, "usd2rub_01.htm");
         }
     }
 }
